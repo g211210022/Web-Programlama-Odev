@@ -7,3 +7,11 @@ namespace MVC_Model.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+
+
+
+
+
+
+
