@@ -30,6 +30,3 @@ namespace MVC_Model.Controllers
         }
     }
 }
-
-
-
